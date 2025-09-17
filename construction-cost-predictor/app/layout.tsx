@@ -5,9 +5,8 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "v0 ConstratAI",
+  title: "ConstratAI",
   description: "ConstratAI",
-  // generator: 'v0.app',
 };
 
 export default function RootLayout({

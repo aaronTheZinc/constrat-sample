@@ -1,0 +1,7 @@
+Multi-Step Time Series Forecasting Model
+
+US Bearuea of Labor Statistics
+
+PPI (Producer Price Index)
+
+Input layer size 594
